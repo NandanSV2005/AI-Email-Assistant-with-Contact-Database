@@ -104,3 +104,9 @@ This workflow can serve as a foundation for building:
 - 📧 Productivity tools for automated emailing  
 
 ---
+
+## Images
+<img width="1918" height="831" alt="image" src="https://github.com/user-attachments/assets/8cd6dec9-4722-4eaf-b23d-738b3096da97" />
+<img width="1918" height="835" alt="image" src="https://github.com/user-attachments/assets/e3755056-d86e-4f4e-89a3-31488fdea187" />
+
+
